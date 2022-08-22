@@ -36,6 +36,3 @@ ddply(gapminder, ~ continent,
 
 # gráfico | Expectativa de vida ao lonogo dos anos no 'Cambodia'
 plot(lifeExp ~ year, gapminder, subset = country == "Cambodia", type = "b")
-
-
-

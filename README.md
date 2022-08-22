@@ -1,2 +1,3 @@
 # r-scripts
-Script com teste e treinos na linguagem R
+Script com exemplo de código, teste e treinos na linguagem R
+
